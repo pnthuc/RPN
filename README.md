@@ -106,11 +106,6 @@ g++ -std=c++11 -o rpn main.cpp
 
 ---
 
-## File chính
-
-- `main.cpp` — chứa toàn bộ logic chuyển đổi, tính toán và in kết quả.
-
----
 
 ## Ghi chú
 
