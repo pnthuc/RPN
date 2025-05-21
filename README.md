@@ -1,5 +1,13 @@
 # RPN Calculator (Reverse Polish Notation)
 
+## Thành viên
+Thuc, Phan Ngoc (24120228)
+Thien, Tong Phuc (24120141)
+Nam, Bui Phuong (24120502)
+Phuc, Phan Gia (24120503)
+
+---
+
 Đây là một chương trình C++ thực hiện chuyển đổi biểu thức toán học từ dạng trung tố (infix) sang hậu tố (postfix hay RPN - Reverse Polish Notation) và tính giá trị biểu thức hậu tố đó.
 
 ---
