@@ -1,10 +1,10 @@
 # RPN Calculator (Reverse Polish Notation)
 
 ## Thành viên
-Thuc, Phan Ngoc (24120228)
-Thien, Tong Phuc (24120141)
-Nam, Bui Phuong (24120502)
-Phuc, Phan Gia (24120503)
+- **Phan Ngọc Thức** - **24120228**.
+- **Tống Phúc Thiện** - **24120141**.
+- **Bùi Phương Nam** - **24120502**.
+- **Phan Gia Phúc** - **24120503**.
 
 ---
 
