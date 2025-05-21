@@ -64,14 +64,6 @@ void printPostfix(const vector<pair<bool, long long>>& postfix);
 ```
 In biểu thức hậu tố ra màn hình.
 
-```cpp
-int main();
-```
-Chạy thử một loạt các biểu thức mẫu, in ra:
-- Biểu thức gốc (infix)
-- Biểu thức hậu tố
-- Kết quả tính toán
-
 ---
 
 ## Ví dụ kết quả
